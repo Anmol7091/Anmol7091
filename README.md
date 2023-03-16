@@ -1,8 +1,8 @@
 
-# Hi ,I Am Aditya Raj! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
+# Hi ,I Am Anmol Kumar! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
 <br>
 
-![](https://komarev.com/ghpvc/?username=th3-v3ng34nc3&color=blue)<br>
+![](https://komarev.com/ghpvc/?username=Anmol70913&color=blue)<br>
 
 ### A budding Security Engineer | Ethical Hacker | CTF - Player <br>
 
@@ -23,18 +23,3 @@
 [![Instagram Badge](https://img.shields.io/badge/-@mr_rajvanshiii-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/mr_rajvanshiii)](https://www.instagram.com/mr_rajvanshiii) 
 
 
-### 📈 Github Stats:
-
-
-<br>
-<a href="https://github.com/th3-v3ng34nc3">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=th3-v3ng34nc3&show_icons=true&include_all_commits=true&theme=midnight-purple&count_private=true">
-</a>
-<br><br>
-<a href="https://github.com/remcohalman/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=th3-v3ng34nc3&layout=compact&theme=blue-green" />
-</a>
-<br>
-<br><br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=th3-v3ng34nc3)](https://git.io/streak-stats)
